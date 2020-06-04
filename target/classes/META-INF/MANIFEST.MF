@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: HotelChain
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sanjeev singh
+Implementation-Vendor-Id: com.coding
+Build-Jdk: 1.8.0_71
+Implementation-URL: http://projects.spring.io/spring-boot/Hotel-Chain/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
