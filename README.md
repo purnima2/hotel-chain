@@ -6,3 +6,15 @@
  
  For POST request, url is "/api/customer"
  For GET request, url is "/api/customer/{id}"
+ 
+ It will accept following json structure for the customer
+ 
+ {
+	"userid":"sanjeev",
+	"firstName":"sanjeev",
+	"lastName":"singh",
+	"password" :"sanjeeyv",
+	"email":"kmr.sanjev103h@gmail.com",
+	"dob":"07-06-2020",
+	"id":103
+}
