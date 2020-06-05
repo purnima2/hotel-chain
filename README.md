@@ -10,11 +10,11 @@
  It will accept following json structure for the customer
  
  {
-	"userid":"sanjeev",
-	"firstName":"sanjeev",
-	"lastName":"singh",
-	"password" :"sanjeeyv",
-	"email":"kmr.sanjev103h@gmail.com",
+	"userid":"purnima",
+	"firstName":"purnima",
+	"lastName":"kumari",
+	"password" :"purnima1234",
+	"email":"kmr.purni2@gmail.com",
 	"dob":"07-06-2020",
 	"id":103
 }
